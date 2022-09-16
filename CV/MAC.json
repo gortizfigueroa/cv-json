@@ -147,6 +147,38 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "TBSCG",
+          "image": {
+            "alt": "tbscg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/57aad3d1-7951-4f9b-bb6e-7001e1364175_tbscg.png"
+          },
+          "URL": "https://tbscg.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2014-11-01",
+            "finishDate": "2016-12-01",
+            "challenges": [
+              {
+                "description": "Joined TBSCG as a Senior Developer, where I had to use and learn these technologies: JAVA, Groovy, Spring, Freemarker, XSLT, AngularJS, CSS, RHEL (CentOS).\nDriving technical interviews for all the new members of the team.\nSupporting Delivery and Country Managers on organisational matters.\n\nWhile assigned on projects, I was able to successfully deliver as:\nMagnolia CMS Web Developer at Proximus Group (Belgacom)\nOpenText Teamsite Web Developer at Nationwide Building Society\nOpenText Teamsite Consultant at Euskaltel\nOpenText Teamsite Web Developer at Herbalife Nutrition\nOpenText Teamsite Technical Lead at Proximus Group (Belgacom)\nOpenText Teamsite Web Developer at Electrabel (GDF / Engie)\nOpenText Teamsite Web Developer at Doosan Group\nHP Autonomy IDOL Consultant at IESE Business School"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Magnolia",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
