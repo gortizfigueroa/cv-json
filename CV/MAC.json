@@ -79,6 +79,38 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "TBSCG",
+          "image": {
+            "alt": "tbscg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/bccb7d40-33f9-4997-9c07-7f4aa92fca3e_tbscg.png"
+          },
+          "URL": "https://tbscg.com/"
+        },
+        "roles": [
+          {
+            "name": "General Manager",
+            "startDate": "2020-02-01",
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Director of the Spanish branch of the company, with power of attorney.\nImplementation of a new career path for the whole company, aligned with its objectives\nto grow its consultancy line by allowing people to change their roles within the different\nfunctions of the company and defining homogeneous levels across those functions.\nManaging key accounts in Spain and the USA, alongside the company’s Managing\nPartner, by defining frameworks contracts, negotiating rates, project delivery, SLAs, and\nRFP processing.\nEngaging with these customers also in a technical and organisational perspective,\nsuccessfully guiding them to become more agile by improving their processes and\nstructures.\nMaintain and grow relationships with technical partners such as AWS, Adobe, OpenText\nand Magnolia.\nMaintain a performing relationship with hiring partners so as to keep our recruitment\npipelines on going, including international hiring.\nLeading the Spanish team and other distributed teams by successfully coaching them,\nfrom Junior Developers to Senior Delivery Managers and Consultants, from a technical\nand professional perspective. This included leading the Adobe consulting practice of the\ncompany.\nAs a Delivery Manager I delivered:\n○ Herbalife Nutrition implementation of AEM and CI/CD within Azure.\n○ Alameda County Social Services Agency migration to OpenText Teamsite.\n○ Nikon migration of OpenText into AWS.\n○ El Corte Inglés implementation of AEM.\n○ Natura Bisse improvements of AEM."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Magnolia",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
