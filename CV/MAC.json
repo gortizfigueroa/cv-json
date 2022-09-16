@@ -364,6 +364,33 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "SC Trade Technologies",
+          "image": {
+            "alt": "sctrade.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/0fad18f1-d1db-40f1-b55b-51f7d520d93f_sctrade.png"
+          },
+          "URL": "https://www.sctrade.es"
+        },
+        "roles": [
+          {
+            "name": "Junior Java Developer",
+            "startDate": "2009-07-01",
+            "finishDate": "2010-03-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
