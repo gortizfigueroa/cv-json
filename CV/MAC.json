@@ -94,6 +94,28 @@
       },
       {
         "organization": {
+          "name": "Viatges Via Nomada",
+          "image": {
+            "alt": "logo-vn.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/58b14f0c-b57e-4933-9f01-9e6c1622a787_logo-vn.png"
+          },
+          "URL": "https://via-nomada.com"
+        },
+        "roles": [
+          {
+            "name": "Junior PHP Developer",
+            "startDate": "2008-02-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "TBSCG",
           "image": {
             "alt": "tbscg.png",
