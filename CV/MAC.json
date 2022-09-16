@@ -530,6 +530,26 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure AI Engineer Associate",
+        "startDate": "2021-01-01",
+        "finishDate": "2023-01-01",
+        "institution": {
+          "name": "Azure",
+          "image": {
+            "alt": "Archivo_Microsoft_Azure_Logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/13e6ad08-9b1c-410f-a108-16bb06b1a71b_archivo_microsoft_az.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Azure",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "AWS Certified Solutions Architect – Associate",
         "startDate": "2020-06-01",
         "finishDate": "2023-06-01",
