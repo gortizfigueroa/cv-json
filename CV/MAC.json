@@ -529,6 +529,25 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Magnolia Associate Developer Certificate",
+        "startDate": "2018-02-01",
+        "institution": {
+          "name": "Magnolia",
+          "image": {
+            "alt": "1600px-Magnolia_(CMS)_logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/9fc7ab74-c867-459d-adf0-4384db2b7b30_1600px-magnolia_(cms.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Magnolia",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Microsoft Certified: Azure AI Engineer Associate",
         "startDate": "2021-01-01",
