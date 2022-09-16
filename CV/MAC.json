@@ -341,6 +341,29 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "iSOCO",
+          "image": {
+            "alt": "1519856258564.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/8b23ae89-a05b-4883-99ff-f5ee2de16868_1519856258564.png"
+          },
+          "URL": "https://www.clever-global.com"
+        },
+        "roles": [
+          {
+            "name": "Junior Java Developer",
+            "startDate": "2010-05-01",
+            "finishDate": "2010-12-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
