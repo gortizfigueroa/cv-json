@@ -65,6 +65,18 @@
                 "type": "technology"
               },
               {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
                 "name": "React",
                 "type": "technology"
               },
@@ -74,6 +86,10 @@
               },
               {
                 "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
                 "type": "technology"
               }
             ]
