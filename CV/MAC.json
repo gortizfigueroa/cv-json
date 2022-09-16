@@ -247,6 +247,70 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "iContainers",
+          "image": {
+            "alt": "1538376655-icontainers_logo-1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/7ac003f6-95b4-46d0-ab26-a8dcaa3fded5_1538376655-icontaine.jpg"
+          },
+          "URL": "https://www.icontainers.com"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer",
+            "startDate": "2012-02-01",
+            "finishDate": "2013-08-01",
+            "challenges": [
+              {
+                "description": "· Web applications development (JEE, JSF, PostgreSQL, JS, jQuery, CSS, Intellij IDEA)\n· Web content updating\n· Web Services Development (SOAP)\n· Documentation generation (JasperReports)\n· IT department routines (Windows Server 2008, Amazon AWS)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
