@@ -117,7 +117,7 @@
           "name": "TBSCG",
           "image": {
             "alt": "tbscg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/d2f924a7-e2fc-4fe8-a574-6bc04e6212e6_tbscg.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/c3f424d7-c5ad-4c63-95ce-4bedd4516807_tbscg.png"
           },
           "URL": "https://tbscg.com/"
         },
@@ -134,6 +134,10 @@
             "competences": [
               {
                 "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
                 "type": "technology"
               },
               {
