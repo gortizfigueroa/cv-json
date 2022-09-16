@@ -9,7 +9,7 @@
       "name": "Guillermo",
       "surnames": "Ortiz Figueroa",
       "title": "CTO @ FCM Lab",
-      "description": "I have been working for very big customers for the last 7 years and I have seen very big architectures that deliver all across the world. I love technology and enjoy trying the last new thing. I have been mostly a Java developer but I got no strong preference. I have been able to deliver big projects and manage very senior professionals. I look forward for new challenges.",
+      "description": "I am a passionate person about new technologies, new processes of software development and business development. I enjoy being up to date so I am constantly learning.\n\nI like having a broad overview of what I'm doing, which has taken me to architectural and management positions. I don't have a strong preference for any specific stack, as long as it's the adequate for the needs. I enjoy making things happen and sharpening the future.\n\nCurrently I am the Chief Technology Officer at FCM Lab in Barcelona, part of the Flight Centre Travel Group.",
       "avatar": {
         "alt": "IMG-20220602-WA0006_v3.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/c50b6313-b719-465e-9c5b-01773a5afd4c_img-20220602-wa0006_.jpg"
@@ -123,24 +123,6 @@
           "name": "Linux",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Centos",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RedHat",
-          "type": "technology"
-        }
       }
     ]
   },
@@ -154,6 +136,26 @@
         {
           "type": "other",
           "URL": "https://stackoverflow.com/users/159218/guillermo"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
         }
       ]
     }
