@@ -183,6 +183,70 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Maitsa Customs Brokerage",
+          "image": {
+            "alt": "logo-maitsa-badge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/68479800-edc9-4d3e-b683-b8960ac1219b_logo-maitsa-badge.png"
+          },
+          "URL": "https://www.maitsa.com/"
+        },
+        "roles": [
+          {
+            "name": "IT Manager",
+            "startDate": "2012-10-01",
+            "finishDate": "2013-08-01",
+            "challenges": [
+              {
+                "description": "Management of the company infrastructure. Requirements and projects definition.\n· Web applications development (ASP.NET, C#, VS 2012, PostgreSQL, CSS, ASP.Net Ajax)\n· Document generation (Jasper Reports Server)\n· AEAT (Spanish Tax Agency) connection, integration and data retrieval.\n· Windows Services development (C#). Background monitoring and control.\n· OCR Document Management with database integration.\n· IT maintenance (Windows Server 2008)"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "IIS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
