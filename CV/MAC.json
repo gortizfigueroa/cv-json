@@ -525,6 +525,23 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Degree in Business Management and Administration",
+        "startDate": "2010-09-01",
+        "finishDate": "2014-07-01",
+        "institution": {
+          "name": "UAB – Universitat Autònoma de Barcelona",
+          "URL": "https://www.uab.cat",
+          "image": {
+            "alt": "uab.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/a2bcda5d-2979-4cdd-be8f-a9b4688ce702_uab.png"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
