@@ -595,7 +595,13 @@
             "alt": "aws_logo_smile_1200x630.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/93f72e8d-8049-4915-a035-772afc463970_aws_logo_smile_1200x.png"
           }
-        }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
