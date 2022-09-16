@@ -111,6 +111,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "TBSCG",
+          "image": {
+            "alt": "tbscg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/d2f924a7-e2fc-4fe8-a574-6bc04e6212e6_tbscg.png"
+          },
+          "URL": "https://tbscg.com/"
+        },
+        "roles": [
+          {
+            "name": "Development Centre Lead – Spain",
+            "startDate": "2017-01-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "Development Chapter Lead: Leading the whole Spanish team, a distributed team of up to 27 people, both on-site and remote engineers and consultants.\nManagement Chapter: Active member of the team making the strategic decisions of the company.\nTeam organised by tech stack: Java (AEM and Magnolia), .NET (Sitecore and Umbraco) and PHP (Drupal), each with a Tech Lead assigned.\nAble to build an entire new team of Drupal Developers for European Union projects.\nEngaging with partners such as AWS and Magnolia, and with freelancers to deliver the best solutions for our clients.\nIntroduction of a new career path model for the company, which was approved by the Management board, and lately implemented.\n\nAs a Presales Engineer I participated in several RFPs using technologies such as IDOL, OpenText Teamsite, Magnolia CMS, Apache Solr and AWS.\n\nAs a Senior Consultant I delivered:\nA whole new AWS with Magnolia CMS and Cloudinary architecture for Doosan Bobcat (USA division of Doosan Corp, a Korean corporation of heavy machinery), participating since the RFP phase (presented in Fargo, ND) as AWS and Magnolia Consultant.\nA brand new implementation of Magnolia CMS for Partenamut and Partena Ziekenfonds (main Health Insurance provider in Belgium) as a Solution Architect, leading the rest of the team (internal and external) from a technical perspective. Also others including a new Mobile App using Apache Cordova.\nA new implementation for IESE Business School (MBA among top 10 in world, according to FT Global MBA Ranking 2022) of Apache Solr as a replacement for the old IDOL system, which required all analysis and implementation phases, as a Solution Architect.\nNew project within Magnolia CMS for Proximus (main Telecom provider in Belgium) as a Technical Analyst.\nImplementation of a translation system in OpenText Teamsite for RENFE (main rail provider in Spain) as a Senior Consultant.\nEvolution of the Aeroclub de Sabadell platform built in Java as Consultant and Account Manager."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Magnolia",
+                "type": "technology"
+              },
+              {
+                "name": "Solr",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
