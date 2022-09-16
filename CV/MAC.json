@@ -391,6 +391,29 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "GITS (UPC)",
+          "image": {
+            "alt": "Logo_UPC.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/d8b0d03c-519f-4f8d-8f14-76633164d91d_logo_upc.png"
+          },
+          "URL": "https://deca.upc.edu/es/doctorado-investigacion/grupos-investigacion"
+        },
+        "roles": [
+          {
+            "name": "Junior PHP Developer",
+            "startDate": "2008-04-01",
+            "finishDate": "2008-12-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
