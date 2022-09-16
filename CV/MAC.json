@@ -39,6 +39,49 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "FCM Lab",
+          "image": {
+            "alt": "fcm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/611341a9-54e3-40d4-a50d-2d3572195fdc_fcm.png"
+          },
+          "URL": "https://www.fcmtravel.com/es-es"
+        },
+        "roles": [
+          {
+            "name": "Chief Technology Officer",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Director of the Development team, working alongside the Head of Products.\nLeading the evolution of a microservices, event-driven, containerised and\nautomatised architecture ready to respond to real time travellers requests and\nbookings, and to help the rest of the company operations.\nImproved recruiting pipeline through profile redefinition and strengthening\nrelationships with recruitment partners.\nDefined a new team distribution with business and domain isolation for better\nperformance.\nIncreased visibility of projects by prioritising estimations, but also reduced\nestimation time by simplifying the process.\nImplemented Notion as a wiki and Slack for communication.\nImproved security of the platform within the context of the ISO27001\nimplementation, by creation of a SBOM, and adding tools such as Snyk.io and\nGitLab security capabilities (Brakeman, Trivy, gitleaks, KICS, rubocop, ESLint,\netc).\nPlanned and designed the data anonymisation for all applications and\nenvironments.\nCreation of a new roadmap for 2022-2022 for all technology aspects, which also\nincluded the migration of the platform to an orchestrator (Kubernetes) based on\nthe growth of the market and the team.\nUpdated my technical skills by learning Ruby on Rails (and its ecosystem) and\nDigital Ocean."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
