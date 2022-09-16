@@ -48,6 +48,10 @@
       {
         "organization": {
           "name": "FCM Lab",
+          "image": {
+            "alt": "fcm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/f810a4d3-2a42-46b0-8eb7-321d5516719c_fcm.png"
+          },
           "URL": "https://www.fcmtravel.com/es-es"
         },
         "roles": [
