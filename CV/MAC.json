@@ -1,0 +1,161 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Guillermo",
+      "surnames": "Ortiz Figueroa",
+      "title": "CTO @ FCM Lab",
+      "description": "I have been working for very big customers for the last 7 years and I have seen very big architectures that deliver all across the world. I love technology and enjoy trying the last new thing. I have been mostly a Java developer but I got no strong preference. I have been able to deliver big projects and manage very senior professionals. I look forward for new challenges.",
+      "avatar": {
+        "alt": "IMG-20220602-WA0006_v3.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/22/c50b6313-b719-465e-9c5b-01773a5afd4c_img-20220602-wa0006_.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/gortizfigueroa"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/159218/guillermo"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/gortiz1988"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/guillermoortizfigueroa/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "German"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Magnolia",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solr",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Centos",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RedHat",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/guillermoortizfigueroa/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/159218/guillermo"
+        }
+      ]
+    }
+  }
+}
