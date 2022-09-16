@@ -530,6 +530,19 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Professional Scrum Master I",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "Scrum.org",
+          "image": {
+            "alt": "scrumorg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/16/053515f1-7064-404d-9aaa-b562d2a80534_scrumorg.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Magnolia Associate Developer Certificate",
         "startDate": "2018-02-01",
         "institution": {
